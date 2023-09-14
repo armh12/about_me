@@ -1,1 +1,7 @@
-# about_me
+Hi there!
+
+My name is Arman, and I am beginner Data Scientist.
+
+I have few projects that I made in educational purposes and I will be very excited to listen your opinions about my projects!
+
+Have a good and productive day!
